@@ -1,6 +1,6 @@
 # 2021 Virtualitics Caltech Hackathon
 
-**Note**: This project was done by [Saehui Hwang](https://github.com/saehuihwang), Archie Shahidullah, and [Liam 
+**Note**: This project was done by [Saehui Hwang](https://github.com/saehuihwang), [Archie Shahidullah](https://github.com/Archiecool4), and [Liam 
 Silvera](https://github.com/lm-silvera). We placed [second](https://blog.virtualitics.com/virtualitics-wraps-up-2021-caltech-data-science-hackathon) in the Bioinformatics track.
 
 This project analyzes gene expression in response to treatments thought to 
