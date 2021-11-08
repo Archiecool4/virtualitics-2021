@@ -13,7 +13,7 @@ The data were generously provided to us by
 gene expression values for ~47000 cells along ~37000 genes. This was later reduced by filtering. The structure
 of the raw data is shown below.
 
-![Raw Dataset Form](./images/dataset.png)
+![Raw Dataset Form](./images/dataset.PNG)
 
 After reducing the gene expression vectors (each row) to 128-dimensional latent encodings with our autoencoder, we performed clustering in Virtualitic's VIP software to identify trends for future investigation.
 
