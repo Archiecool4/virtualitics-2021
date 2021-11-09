@@ -15,7 +15,7 @@ of the raw data is shown below.
 
 ![Raw Dataset Form](./images/dataset.PNG)
 
-After reducing the gene expression vectors (each row) to 128-dimensional latent encodings with our autoencoder, we performed clustering in Virtualitic's VIP software to identify trends for future investigation.
+After reducing the gene expression vectors (each row) to 128-dimensional latent encodings with our autoencoder, we performed clustering in Virtualitics' VIP software to identify trends for future investigation.
 
 An example of a graph indicating cell response to the drug Alprostadil is below.
 
